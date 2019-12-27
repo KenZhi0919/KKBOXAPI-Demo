@@ -1,24 +1,24 @@
-# kkbox-sample
+# KKBOXAPI-Demo
 
-## Project setup
-```
-npm install
-```
+此作品以 Vue.js 為框架並使用 KKBOX API 和 YouTube Data API 進行網站的呈現及音樂的播放，僅作為作品上的使用
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## DEMO
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[https://kenzhi0919.github.io/KKBOXAPI-Demo/](https://kenzhi0919.github.io/KKBOXAPI-Demo/)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用技術
+
+* KKBOX OPEN API
+`取得各個排行榜及歌曲資料`
+* YouTube Data API
+`取得 Youtube 歌曲資料及播放器`
+* RWD
+`提供各式裝置清楚瀏覽網頁`
+* Vue Cli 3
+* Vuex
+* VueRouter
+* Vue Components
+* Bootstrap
+* JavaScript ES6
+

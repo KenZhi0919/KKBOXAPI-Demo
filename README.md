@@ -1,4 +1,4 @@
-# KKBOXAPI-Demo
+# KKBOX API-Demo
 
 此作品以 Vue.js 為框架並使用 KKBOX API 和 YouTube Data API 進行網站的呈現及音樂的播放，僅作為作品上的使用
 

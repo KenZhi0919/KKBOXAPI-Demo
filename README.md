@@ -6,7 +6,6 @@
 
 [https://kenzhi0919.github.io/KKBOXAPI-Demo/](https://kenzhi0919.github.io/KKBOXAPI-Demo/)
 
-
 ## 使用技術
 
 * KKBOX OPEN API
@@ -22,3 +21,9 @@
 * Bootstrap
 * JavaScript ES6
 
+## 功能介紹
+
+* Youtube 歌曲、歌手搜尋
+* Youtube 播放器播歌
+* KKBOX 播放器30秒音樂試聽
+* 提供最新音樂、風格排行榜

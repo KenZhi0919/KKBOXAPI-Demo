@@ -15,9 +15,12 @@
 * RWD
 `提供各式裝置清楚瀏覽網頁`
 * Vue Cli 3
-* Vuex
-* VueRouter
-* Vue Components
+* Vuex 
+`利用 Vuex 掌握狀態管理`
+* VueRouter 
+`利用 VueRouter 管理路由`
+* Vue Components 
+`利用 Vue Components 使組件重複利用、方便維護`
 * Bootstrap
 * JavaScript ES6
 
